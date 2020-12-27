@@ -1,1 +1,1 @@
-# simple_paint_using_tkinter
+Paint application using python
